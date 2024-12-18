@@ -30,8 +30,7 @@ The dataset contains two main components:
 - **primary_category**, **secondary_category**, **tertiary_category**: Categorization details.
 
 #### Reviews Data
-- **author_id**: Unique identifier for the
-- review author.  
+- **author_id**: Unique identifier for the review author.  
 - **rating**: Rating provided by the customer (1–5 scale).  
 - **is_recommended**: Whether the product is recommended by the reviewer (1 for yes, 0 for no).  
 - **helpfulness**: Ratio of positive to total feedback for the review.  
